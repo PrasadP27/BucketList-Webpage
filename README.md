@@ -1,8 +1,6 @@
 # Bucket-List Webpage
 
-This is the static and basic webpage for creating a list of your wishes and keep a track of that wishes. 
-
-You can Add, Edit, mark Completed and Delete Wishes.
+This is the webpage that makes the list of your thing that you want to do before you die. Here you can add, edit and delete the wish from the list. Also you can keep the track of completed wishe. This webpage uses the languages like HTML, CSS and Vanila Js.
 
 ## Languages Used
 
