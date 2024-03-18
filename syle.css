@@ -241,6 +241,16 @@ h1 {
     
 }
 
+
+.alert-bg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #000;
+}
+
 .alert, .deleteBtn-alert {
     position: absolute;
     height: auto;
@@ -304,4 +314,21 @@ h1 {
 .deleteBtn-alert #cancle-btn{
     background-color:#7b7b7b;
     margin: auto 10px;
+}
+
+@media (max-width: 600px){
+    .list-section{
+        width: 90%;
+    }
+
+    .alert, .deleteBtn-alert{
+        width: 80%;
+        margin: 0 auto;
+        left: 10px;
+        right: 10px;
+    } 
+
+    .delete-btn{
+        width: auto;
+    }
 }
